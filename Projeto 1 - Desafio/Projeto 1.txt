@@ -1,0 +1,3 @@
+_Projeto 1_
+
+Criar o repositório, realizar um commit e um push de novos arquivos dentro do mesmo.
